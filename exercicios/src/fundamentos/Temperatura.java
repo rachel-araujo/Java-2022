@@ -13,7 +13,7 @@ public class Temperatura {
 		System.out.println(" A temperatura em °C é: " + celsius + "°C");
 		
 		fahrenheit = 150;
-		celsius=celsius = (fahrenheit - X) * Y;
+		celsius = celsius = (fahrenheit - X) * Y;
 		System.out.println(" A temperatura em °C é: " + celsius + "°C");
 
 	}
