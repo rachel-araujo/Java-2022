@@ -14,7 +14,7 @@ public class DesafioFor {
 		// Não pode usar valor numérico para controlar o laço!
 
 		for (String v = "#"; !v.equals("######"); v += "#") {
-			System.out.println(v);
+			System.out.print(v);
 		}
 
 	}
